@@ -1,3 +1,3 @@
-# Machine-Learning
+# Machine-Learning for Mechanical Engineer
 Using machine learning methods for classification and regression.
-This repo is about all the work that I done in Machine Learning for Mechanical Engineering class on Fall 2021.
+This repo is about all the work that I done in Machine Learning for Mechanical Engineer class on Fall 2021.
