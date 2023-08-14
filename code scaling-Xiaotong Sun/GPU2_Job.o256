@@ -1,0 +1,23 @@
+running code
+Epoch 1/10
+75/75 - 419s - loss: 6.9034 - accuracy: 0.6714 - val_loss: 0.0000e+00 - val_accuracy: 0.0000e+00
+Epoch 2/10
+75/75 - 2s - loss: 0.0481 - accuracy: 0.9999 - val_loss: 0.0213 - val_accuracy: 1.0000
+Epoch 3/10
+75/75 - 2s - loss: 0.0115 - accuracy: 1.0000 - val_loss: 0.0062 - val_accuracy: 1.0000
+Epoch 4/10
+75/75 - 2s - loss: 0.0036 - accuracy: 1.0000 - val_loss: 0.0028 - val_accuracy: 1.0000
+Epoch 5/10
+75/75 - 2s - loss: 0.0015 - accuracy: 1.0000 - val_loss: 0.0013 - val_accuracy: 1.0000
+Epoch 6/10
+75/75 - 2s - loss: 8.0941e-04 - accuracy: 1.0000 - val_loss: 7.3639e-04 - val_accuracy: 1.0000
+Epoch 7/10
+75/75 - 2s - loss: 4.9163e-04 - accuracy: 1.0000 - val_loss: 4.9757e-04 - val_accuracy: 1.0000
+Epoch 8/10
+75/75 - 2s - loss: 3.2599e-04 - accuracy: 1.0000 - val_loss: 3.5581e-04 - val_accuracy: 1.0000
+Epoch 9/10
+75/75 - 2s - loss: 2.2974e-04 - accuracy: 1.0000 - val_loss: 2.4575e-04 - val_accuracy: 1.0000
+Epoch 10/10
+75/75 - 2s - loss: 1.7355e-04 - accuracy: 1.0000 - val_loss: 2.4003e-04 - val_accuracy: 1.0000
+Eclapse time: 461.45851469039917s
+done!
